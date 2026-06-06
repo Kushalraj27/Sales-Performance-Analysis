@@ -33,10 +33,10 @@ This dashboard was developed to:
 **4.Key KPIs**
 
 KPI                 Value     
-Total Revenue    ->   1,026.40M 
-Total Profit     ->   110.47M   
-Total Cost       ->   915.93M   
-Total Units Sold ->   24.73M    
+1.Total Revenue    ->   1,026.40M 
+2.Total Profit     ->   110.47M   
+3.Total Cost       ->   915.93M   
+4.Total Units Sold ->   24.73M    
 
 ---
 **5.Dashboard Features**
